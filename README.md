@@ -1,4 +1,6 @@
 # PyTorch_CSX
+## https://discord.gg/U9B7Y
+
 PyTorch Taipei &amp; NTU CS+X 讀書會
 
 時間：2018/03/01 ~ 2018/06/28，每週四晚上七點到九點
