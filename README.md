@@ -11,7 +11,9 @@ NTU CS+X 成員：Pecu, JiYu, ChangRun, JunHao, JunJie
 
 PyTorch 教學：http://pytorch.org/tutorials/
 
-- 2018/03/08: Pecu, Deep Learning with PyTorch: A 60 Minute Blitz, http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
+- 2018/03/08: Pecu & JunHao, PyTorch Basic
+
+  - more examples: http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
 
 - 2018/03/15: ChangRun, PyTorch for former Torch users, http://pytorch.org/tutorials/beginner/former_torchies_tutorial.html
 
