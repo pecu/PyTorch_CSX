@@ -7,8 +7,6 @@ PyTorch Taipei &amp; NTU CS+X 讀書會
 
 NTU CS+X 成員：Pecu, JiYu, ChangRun, JunHao, JunJie
 
-負責主題：FCN, R-CNN, Fast R-CNN, Faster R-CNN, YOLO, SSD
-
 PyTorch 教學：http://pytorch.org/tutorials/
 
 - 2018/03/08: Pecu & JunHao, PyTorch Basic
