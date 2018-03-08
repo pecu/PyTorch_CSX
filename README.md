@@ -1,5 +1,5 @@
 # PyTorch_CSX
-## https://discord.gg/U9B7Y
+## https://discord.gg/jMCVCbJ
 
 PyTorch Taipei &amp; NTU CS+X 讀書會
 
