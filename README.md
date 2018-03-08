@@ -15,29 +15,53 @@ PyTorch 教學：http://pytorch.org/tutorials/
 
   - more examples: http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
 
-- 2018/03/15: ChangRun, PyTorch for former Torch users, http://pytorch.org/tutorials/beginner/former_torchies_tutorial.html
+- 2018/03/15: JiYu & ChangRun, PyTorch for former Torch users
 
-- 2018/03/22: JiYu, Learning PyTorch with Examples, http://pytorch.org/tutorials/beginner/pytorch_with_examples.html
+  - more examples: http://pytorch.org/tutorials/beginner/former_torchies_tutorial.html
 
-- 2018/03/29: ChangRun, Transfer Learning tutorial, http://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
+- 2018/03/22: Pecu & JunHao, Learning PyTorch with Examples
 
-- 2018/04/12: JiYu, Data Loading and Processing Tutorial, http://pytorch.org/tutorials/beginner/data_loading_tutorial.html
+  - more examples: http://pytorch.org/tutorials/beginner/pytorch_with_examples.html
 
-- 2018/04/19: ChangRun, Deep Learning for NLP with Pytorch, http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html
+- 2018/03/29: JiYu & ChangRun, Transfer Learning tutorial
 
-- 2018/04/26: JunHao, Classifying Names with a Character-Level RNN, http://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html
+  - more examples: http://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
 
-- 2018/05/03: Pecu, Generating Names with a Character-Level RNN, http://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html
+- 2018/04/12: Pecu & JunHao, Data Loading and Processing Tutorial
 
-- 2018/05/10: JunHao, Translation with a Sequence to Sequence Network and Attention, http://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
+  - more examples: http://pytorch.org/tutorials/beginner/data_loading_tutorial.html
 
-- 2018/05/17: Pecu, Reinforcement Learning (DQN) tutorial, http://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
+- 2018/04/19: JiYu & ChangRun, Deep Learning for NLP with Pytorch
 
-- 2018/05/24: JunHao, Writing Distributed Applications with PyTorch, http://pytorch.org/tutorials/intermediate/dist_tuto.html
+  - more examples: http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html
 
-- 2018/05/31: Pecu, Spatial Transformer Networks Tutorial, http://pytorch.org/tutorials/intermediate/spatial_transformer_tutorial.html
+- 2018/04/26: Pecu & JunHao, Classifying Names with a Character-Level RNN
 
-- 2018/06/07: JunJie, Neural Transfer with PyTorch, http://pytorch.org/tutorials/advanced/neural_style_tutorial.html
+  - more examples: http://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html
+
+- 2018/05/03: JiYu & ChangRun, Generating Names with a Character-Level RNN
+
+  - more examples: http://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html
+
+- 2018/05/10: Pecu & JunHao, Translation with a Sequence to Sequence Network and Attention
+
+  - more examples: http://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
+
+- 2018/05/17: JiYu & ChangRun, Reinforcement Learning (DQN) tutorial
+
+  - more examples: http://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
+
+- 2018/05/24: Pecu & JunHao, Writing Distributed Applications with PyTorch 
+
+  - more examples: http://pytorch.org/tutorials/intermediate/dist_tuto.html
+
+- 2018/05/31: JiYu & ChangRun, Spatial Transformer Networks Tutorial
+
+  - more examples: http://pytorch.org/tutorials/intermediate/spatial_transformer_tutorial.html
+
+- 2018/06/07: JunJie, Neural Transfer with PyTorch
+
+  - more examples: http://pytorch.org/tutorials/advanced/neural_style_tutorial.html
 
 - 2018/06/14: JunJie, TBC.
 
