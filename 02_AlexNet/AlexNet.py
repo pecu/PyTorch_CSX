@@ -2,17 +2,16 @@ import torch
 import torch.nn as nn
 from PIL import Image
 import matplotlib.pyplot as plt
-from torch.nn import functional as F
 import torchvision.transforms as transforms
 import torchvision.datasets as datasets
 from torch.autograd import Variable
-import matplotlib.pyplot as plt
 
 # Data Normalization - channel=（channel-mean）/std
 normalize = transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
 # Data augmetation
 train_data = datasets.ImageFolder('/Users/xiechangrun/Desktop/data/train',
                          transforms.Compose([
+                             transforms.Scale(256),
                              transforms.RandomSizedCrop(227),
                              transforms.RandomHorizontalFlip(),
                              transforms.ToTensor(),
