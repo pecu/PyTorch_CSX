@@ -70,6 +70,7 @@ class AlexNet(nn.Module):
 
         self.layer1 = nn.Sequential(
             nn.Conv2d(in_channels=3, out_channels=96, kernel_size=11, stride=4),
+            #nn.Conv2d(in_channels=3, out_channels=96, kernel_size=11, stride=4, padding=2), ＃搭配size=224 https://medium.com/@smallfishbigsea/a-walk-through-of-alexnet-6cbd137a5637
             nn.ReLU(inplace=True),
             nn.MaxPool2d(kernel_size=3, stride=2),
             LRN(local_size=5, alpha=1e-4, beta=0.75, ACROSS_CHANNELS=True)
