@@ -15,15 +15,15 @@ PyTorch 教學：http://pytorch.org/tutorials/
 
   - more examples: http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
 
-- 2018/03/15: JiYu & ChangRun, PyTorch for former Torch users
+- 2018/03/15: ChangRun, AlexNet Example
 
   - more examples: http://pytorch.org/tutorials/beginner/former_torchies_tutorial.html
 
-- 2018/03/22: Pecu & JunHao, Learning PyTorch with Examples
+- 2018/03/22: JiYu, Learning PyTorch with Examples
 
   - more examples: http://pytorch.org/tutorials/beginner/pytorch_with_examples.html
 
-- 2018/03/29: JiYu & ChangRun, Transfer Learning tutorial
+- 2018/03/29: JunHao, Transfer Learning tutorial
 
   - more examples: http://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
 
