@@ -3,6 +3,8 @@
 
 PyTorch Taipei &amp; NTU CS+X 讀書會
 
+自願報名實做教學表單：https://docs.google.com/spreadsheets/d/1xuvbQCR4LSNUhN_GeUihasqZOWDi_AV2lvOlcTXZqTQ/edit#gid=0
+
 時間：2018/03/01 ~ 2018/06/28，每週四晚上七點到九點
 
 地點：台大普通大樓 305 教室，可容納 100 人
