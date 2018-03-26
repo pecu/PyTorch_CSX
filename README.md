@@ -29,15 +29,15 @@ PyTorch 教學：http://pytorch.org/tutorials/
 
   - more examples: http://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
 
-- 2018/04/12: Pecu & JunHao, Data Loading and Processing Tutorial
+- 2018/04/12: David (Line: jenhaic)
 
   - more examples: http://pytorch.org/tutorials/beginner/data_loading_tutorial.html
 
-- 2018/04/19: JiYu & ChangRun, Deep Learning for NLP with Pytorch
+- 2018/04/19: Jack (FB:廖健傑)
 
   - more examples: http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html
 
-- 2018/04/26: Pecu & JunHao, Classifying Names with a Character-Level RNN
+- 2018/04/26: 狸貓 (FB: logicer.math)
 
   - more examples: http://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html
 
