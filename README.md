@@ -25,7 +25,7 @@ PyTorch 教學：http://pytorch.org/tutorials/
 
   - more examples: http://pytorch.org/tutorials/beginner/pytorch_with_examples.html
 
-- 2018/03/29: JunHao, Transfer Learning tutorial
+- 2018/03/29: JunHao, RNN (Recurrent Neural Networks)
 
   - more examples: http://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
 
