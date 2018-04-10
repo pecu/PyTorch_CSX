@@ -29,7 +29,7 @@ PyTorch 教學：http://pytorch.org/tutorials/
 
   - more examples: http://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
 
-- 2018/04/12: David (Line: jenhaic)
+- 2018/04/12: David (Line: jenhaic), Deep Residual Network
 
   - more examples: http://pytorch.org/tutorials/beginner/data_loading_tutorial.html
 
