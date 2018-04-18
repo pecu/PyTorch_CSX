@@ -33,7 +33,7 @@ PyTorch 教學：http://pytorch.org/tutorials/
 
   - more examples: http://pytorch.org/tutorials/beginner/data_loading_tutorial.html
 
-- 2018/04/19: Jack (FB:廖健傑)
+- 2018/04/19: Jack (FB:廖健傑), Deep Learning NLP
 
   - more examples: http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html
 
