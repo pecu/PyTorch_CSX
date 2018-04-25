@@ -1,0 +1,109 @@
+% Saved by Prover9-Mace4 Version 0.5B, March 2008 (Dec 2007 LADR).
+
+set(ignore_option_dependencies). % GUI handles dependencies
+
+if(Prover9). % Options for Prover9
+  assign(max_seconds, 60).
+end_if.
+
+if(Mace4).   % Options for Mace4
+  assign(max_seconds, 60).
+end_if.
+
+formulas(assumptions).
+
+Mary != Jimmy.
+Mary != Peter.
+Mary != John.
+Mary != Paul.
+Mary != Jenny.
+Mary != Amway.
+Mary != Wendy.
+
+Jenny != Jimmy.
+Jenny != Peter.
+Jenny != John.
+Jenny != Paul.
+Jenny != Mary.
+Jenny != Amway.
+Jenny != Wendy.
+
+Amway != Jimmy.
+Amway != Peter.
+Amway != John.
+Amway != Paul.
+Amway != Mary.
+Amway != Jenny.
+Amway != Wendy.
+
+Wendy != Jimmy.
+Wendy != Peter.
+Wendy != John.
+Wendy != Paul.
+Wendy != Mary.
+Wendy != Jenny.
+Wendy != Amway.
+
+Jimmy != Peter.
+Jimmy != John.
+Jimmy != Paul.
+Jimmy != Mary.
+Jimmy != Jenny.
+Jimmy != Amway.
+Jimmy != Wendy.
+
+Peter != Jimmy.
+Peter != John.
+Peter != Paul.
+Peter != Mary.
+Peter != Jenny.
+Peter != Amway.
+Peter != Wendy.
+
+John != Jimmy.
+John != Peter.
+John != Paul.
+John != Mary.
+John != Jenny.
+John != Amway.
+John != Wendy.
+
+Paul != Jimmy.
+Paul != Peter.
+Paul != John.
+Paul != Mary.
+Paul != Jenny.
+Paul != Amway.
+Paul != Wendy.
+
+love(Mary,Jimmy) | love(Mary,Peter) | love(Mary,John) | love(Mary,Paul).
+love(Jenny,Jimmy) | love(Jenny,Peter) | love(Jenny,John) | love(Jenny,Paul) .
+love(Amway,Jimmy) | love(Amway,Peter) | love(Amway,John) | love(Amway,Paul) .
+love(Wendy,Jimmy) | love(Wendy,Peter) | love(Wendy,John) | love(Wendy,Paul).
+love(x,y)->love(y,x).
+- (exists x love(x,x)).
+-(exists x dance(x,x)).
+all x ( all y ( all z((love(x,y) & love(x,z))->(y=z)))).
+dance(x,y)->dance(y,x).
+all x ( all y ( all z((dance(x,y) & dance(x,z))->(y=z)))).
+love(Jimmy,JimmyWife).
+love(Mary,MaryHusband).
+-dance(JimmyWife,Jimmy).
+dance(JimmyWife,MaryHusband).
+-(exists x ( dance(Paul,x))).
+-(exists x ( dance(Wendy,x))).
+all x ( exists y (dance(x,y)->(-guitar(x) & -piano(x) )) ).
+all x ( guitar(x) -> ( -(exists y( dance(x,y))) & (-piano(x)) ) ).
+all x ( piano(x) -> ( -(exists y( dance(x,y))) & (-guitar(x)) ) ).
+guitar(Peter).
+piano(Amway).
+-love(Wendy,Peter).
+
+end_of_list.
+
+formulas(goals).
+
+love(Mary,John).
+
+end_of_list.
+

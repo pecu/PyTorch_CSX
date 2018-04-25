@@ -1,4 +1,4 @@
-# PyTorch_CSX
+﻿# PyTorch_CSX
 ## https://discord.gg/jMCVCbJ
 
 PyTorch Taipei &amp; NTU CS+X 讀書會
@@ -37,7 +37,7 @@ PyTorch 教學：http://pytorch.org/tutorials/
 
   - more examples: http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html
 
-- 2018/04/26: 狸貓 (FB: logicer.math)
+- 2018/04/26: Hank (FB: logicer.math), Automated Reasoning
 
   - more examples: http://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html
 
