@@ -27,11 +27,7 @@ PyTorch 教學：http://pytorch.org/tutorials/
 
 - 2018/03/29: JunHao, RNN (Recurrent Neural Networks)
 
-  - more examples: http://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
-
 - 2018/04/12: David (Line: jenhaic), Deep Residual Network
-
-  - more examples: http://pytorch.org/tutorials/beginner/data_loading_tutorial.html
 
 - 2018/04/19: Jack (FB:廖健傑), Deep Learning NLP
 
@@ -39,19 +35,11 @@ PyTorch 教學：http://pytorch.org/tutorials/
 
 - 2018/04/26: Hank (FB: logicer.math), Automated Reasoning
 
-  - more examples: http://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html
-
-- 2018/05/03: JiYu & ChangRun, Generating Names with a Character-Level RNN
-
-  - more examples: http://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html
-
-- 2018/05/10: Pecu & JunHao, Translation with a Sequence to Sequence Network and Attention
-
-  - more examples: http://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
-
-- 2018/05/17: JiYu & ChangRun, Reinforcement Learning (DQN) tutorial
+- 2018/05/03: PoCheng, Reinforcement Learning (DQN) tutorial
 
   - more examples: http://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
+
+- 2018/05/17: Eric, Sequence to Sequence model and Attention
 
 - 2018/05/24: Pecu & JunHao, Writing Distributed Applications with PyTorch 
 
