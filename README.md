@@ -9,7 +9,7 @@ PyTorch Taipei &amp; NTU CS+X 讀書會
 
 地點：台大普通大樓 305 教室，可容納 100 人
 
-NTU CS+X 成員：Pecu, JiYu, ChangRun, JunHao, JunJie
+NTU CS+X 成員：Pecu, JiYu, ChangRun, JunHao
 
 PyTorch 教學：http://pytorch.org/tutorials/
 
@@ -45,14 +45,4 @@ PyTorch 教學：http://pytorch.org/tutorials/
 
   - more examples: http://pytorch.org/tutorials/intermediate/dist_tuto.html
 
-- 2018/05/31: JiYu & ChangRun, Spatial Transformer Networks Tutorial
-
-  - more examples: http://pytorch.org/tutorials/intermediate/spatial_transformer_tutorial.html
-
-- 2018/06/07: JunJie, Neural Transfer with PyTorch
-
-  - more examples: http://pytorch.org/tutorials/advanced/neural_style_tutorial.html
-
-- 2018/06/14: JunJie, TBC.
-
-- 2018/06/21: JunJie, TBC.
+- 2018/05/31: Yen-Chi Chen (FB: ycchenGod), TBC
