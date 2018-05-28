@@ -41,4 +41,4 @@ PyTorch 教學：http://pytorch.org/tutorials/
 
 - 2018/05/17: Eric, Sequence to Sequence model and Attention
 
-- 2018/05/31: Yen-Chi Chen (FB: ycchenGod), Variational Autoencoder
+- 2018/05/31: Yen-Chi Chen (FB: ycchen1989), Variational Autoencoder
