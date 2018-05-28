@@ -41,8 +41,4 @@ PyTorch 教學：http://pytorch.org/tutorials/
 
 - 2018/05/17: Eric, Sequence to Sequence model and Attention
 
-- 2018/05/24: Pecu & JunHao, Writing Distributed Applications with PyTorch 
-
-  - more examples: http://pytorch.org/tutorials/intermediate/dist_tuto.html
-
-- 2018/05/31: Yen-Chi Chen (FB: ycchenGod), TBC
+- 2018/05/31: Yen-Chi Chen (FB: ycchenGod), Variational Autoencoder
